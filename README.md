@@ -17,13 +17,18 @@ Este repositório contém os arquivos gerados no tutorial "Criar um gatilho do A
 ## Como usar este código
 
 1. Clone este repositório para o seu ambiente local.
-`git clone https://github.com/marc3gomes/tutorial-aws-s3-lambda.git`
+```bash
+git clone https://github.com/marc3gomes/tutorial-aws-s3-lambda.git
+```
 
 2. Acesse o diretório clonado:
-`cd tutorial-aws-s3-lambda`
+```bash
+    cd tutorial-aws-s3-lambda
+```
 
 
-3. Siga as instruções detalhadas no tutorial fornecido pela AWS: [Tutorial: Criar um gatilho do Amazon S3 para acionar uma função do AWS Lambda](https://docs.aws.amazon.com/pt_br/lambda/latest/dg/with-s3-tutorial.html).
+3. Siga as instruções detalhadas no tutorial fornecido pela AWS:
+[Tutorial: Criar um gatilho do Amazon S3 para acionar uma função do AWS Lambda](https://docs.aws.amazon.com/pt_br/lambda/latest/dg/with-s3-tutorial.html).
 
 ## Contribuindo
 
